@@ -1,0 +1,6 @@
+node_modules/
+.alert-state.json
+config.env
+*.pyc
+__pycache__/
+.DS_Store
